@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\anisund\workspace\Strengths\app\src\main\assets" />
+        <source path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\anisund\workspace\Strengths\app\src\debug\assets" />
+        <source path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/debug/assets" />
     </dataSet>
 
 </merger>

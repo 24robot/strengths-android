@@ -2,55 +2,202 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\anisund\workspace\Strengths\app\src\main\res" >
+        <source path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res" >
             <file
-                name="ic_launcher"
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                name="facebook_login_button"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-hdpi/facebook_login_button.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="google_signin_button"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-hdpi/google_signin_button.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="microsoft_login_button"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-hdpi/microsoft_login_button.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="twitter_blue_sign_in"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-hdpi/twitter_blue_sign_in.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="facebook_login_button"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-mdpi/facebook_login_button.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="google_signin_button"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-mdpi/google_signin_button.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="microsoft_login_button"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-mdpi/microsoft_login_button.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="twitter_blue_sign_in"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-mdpi/twitter_blue_sign_in.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
+                name="ic_launcher"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+                qualifiers="xxxhdpi"
+                type="drawable" />
+            <file
+                name="activity_authentication"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/layout/activity_authentication.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_custom_login"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/layout/activity_custom_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_logged_in"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/layout/activity_logged_in.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_register_account"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/layout/activity_register_account.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="activity_to_do"
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\layout\activity_to_do.xml"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/layout/activity_to_do.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="row_list_to_do"
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\layout\row_list_to_do.xml"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/layout/row_list_to_do.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_main"
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\menu\activity_main.xml"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/menu/activity_main.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\values\strings.xml"
+                name="authentication"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/menu/authentication.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="custom_login"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/menu/custom_login.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="logged_in"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/menu/logged_in.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="register_account"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/menu/register_account.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/values/dimens.xml"
                 qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="custom_login_margin" >60dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="register_for_account" >Register for Account
+                </string>
+                <string name="custom_auth" >Custom Auth
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_custom_login" >CustomLoginActivity
+                </string>
+                <string name="cancel" >Cancel
+                </string>
                 <string name="add_button_text" >Add
+                </string>
+                <string name="confirm" >Confirm:
+                </string>
+                <string name="test_401_retry" >Test 401 Retry
                 </string>
                 <string name="mobile_services" >Mobile Services 
                 </string>
+                <string name="user_id" >User ID:
+                </string>
+                <string name="auth_demo" >Auth Demo
+                </string>
+                <string name="username" >Username:
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="password" >Password
+                </string>
+                <string name="login" >Login
+                </string>
+                <string name="email" >Email:
+                </string>
                 <string name="checkbox_text" >Item Text
                 </string>
-                <string name="app_name" >Strengths
+                <string name="title_activity_logged_in" >LoggedInActivity
+                </string>
+                <string name="logout" >Logout
+                </string>
+                <string name="test_401_no_retry" >Test 401 no Retry
                 </string>
                 <string name="add_textbox_hint" >Add a Strength
                 </string>
+                <string name="youre_in" >You\'re in!
+                </string>
                 <string name="menu_refresh" >Refresh
+                </string>
+                <string name="register" >Register
+                </string>
+                <string name="app_name" >Strengths
+                </string>
+                <string name="title_activity_register_account" >RegisterAccountActivity
+                </string>
+                <string name="login_with_email" >Login with Email
                 </string>
             </file>
             <file
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\values\styles.xml"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -72,7 +219,7 @@
                 </style>
             </file>
             <file
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\values-v11\styles.xml"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -83,7 +230,7 @@
                 </style>
             </file>
             <file
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\values-v14\styles.xml"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -94,21 +241,21 @@
                 </style>
             </file>
             <file
-                name="ic_launcher"
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\drawable-xxxhdpi\ic_launcher.png"
-                qualifiers="xxxhdpi"
+                name="twitter_gray_sign_in"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-hdpi/twitter_gray_sign_in.png"
+                qualifiers="hdpi"
                 type="drawable" />
             <file
-                name="ic_launcher"
-                path="C:\Users\anisund\workspace\Strengths\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
-                qualifiers="xxhdpi"
+                name="twitter_gray_sign_in"
+                path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/main/res/drawable-mdpi/twitter_gray_sign_in.png"
+                qualifiers="mdpi"
                 type="drawable" />
         </source>
-        <source path="C:\Users\anisund\workspace\Strengths\app\build\res\rs\debug" />
-        <source path="C:\Users\anisund\workspace\Strengths\app\build\res\generated\debug" />
+        <source path="/Users/anirudh/workspace/strengths/android/strengths-android/app/build/res/rs/debug" />
+        <source path="/Users/anirudh/workspace/strengths/android/strengths-android/app/build/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\anisund\workspace\Strengths\app\src\debug\res" />
+        <source path="/Users/anirudh/workspace/strengths/android/strengths-android/app/src/debug/res" />
     </dataSet>
 
 </merger>
